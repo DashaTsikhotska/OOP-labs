@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\dasha\Desktop\Programming\Classes OOP lab 5\Classes OOP lab 4\Main.cpp(67,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dasha\Desktop\Programming\Classes OOP lab 5\Classes OOP lab 4\Hairdresser.h(34): warning C4172: returning address of local variable or temporary: obj
+  Classes OOP lab 4.vcxproj -> C:\Users\dasha\Desktop\Programming\Classes OOP lab 5\Debug\Classes OOP lab 4.exe
